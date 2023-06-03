@@ -6,10 +6,11 @@
 Projeto Web Responsivo de uma Apeperia.
 
 ## 🚀 Tecnologias
+Projeto desenvolvido com as seguintes tecnologias: 
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através 
